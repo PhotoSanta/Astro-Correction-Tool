@@ -19,3 +19,7 @@ Iterations - # of times a denoise algorithm is ran (the correction causes noise,
 Filters - Self explanitory. If still applying after deselected, reselect and move value to 0.
 
 Process Image - Uses GPU if available to speed processing. Displays and saves the new image in same folder with _edit suffix.
+
+![Before](DSC01337-HDR.jpg)
+
+![After](DSC01337-HDR_edit.jpg)
